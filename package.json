@@ -1,0 +1,16 @@
+{
+  "name": "jehan-npm-github-test",
+  "version": "1.0.0",
+  "description": "Test Github",
+  "main": "styles.css",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/my-css-package"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
